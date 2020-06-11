@@ -1,2 +1,5 @@
 # hello-wordl
-Just another repository
+
+Ii Humans!
+
+Hubot here,i like node.js
